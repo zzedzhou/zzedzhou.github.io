@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          SIA Advanced 
+description:    "SIA Advanced Hints"
+url:            "https://zzedzhou.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         SIA
+  url:          https://urbanarts.org
+  email:        zed@urbanarts.org
 
 # Build settings
 markdown:       kramdown
